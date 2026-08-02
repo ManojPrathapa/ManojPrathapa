@@ -47,282 +47,68 @@ Automation
 <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=ManojPrathapa&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ManojPrathapa&theme=tokyonight&hide_border=true"/> </div>
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManojPrathapa&theme=tokyo-night"/> </div>
 🧠 Technical Expertise
-Languages
-
-Python
-
-Java
-
-SQL
-
-C
-
-JavaScript
-
-Bash
-
-Backend
-FastAPI
-Flask
-REST APIs
-OAuth 2.0
-Graph API
-Redis
-PostgreSQL
-MongoDB
-Data Engineering
-Azure Data Factory
-Dell Boomi
-ETL Pipelines
-Azure SQL
-Blob Storage
-JSON
-XML
-Incremental Sync
-Data Pipelines
-Cloud
-Azure
-Azure Functions
-Docker
-CI/CD
-GitHub Actions
-Big Data
-
-Apache Spark
-
-Kafka
-
-NiFi
-
-Hadoop
-
-Distributed Systems
-
-Machine Learning
-
-PyTorch
-
-Scikit-Learn
-
-XGBoost
-
-LightGBM
-
-Feature Engineering
-
-Model Optimization
-
-Telemetry Analytics
-
+Category	Technologies
+💻 Programming Languages	Python • Java • SQL • C • JavaScript • Bash
+⚙️ Backend Development	FastAPI • Flask • REST APIs • OAuth 2.0 • Microsoft Graph API • Redis • PostgreSQL • MongoDB
+📊 Data Engineering	ETL Pipelines • Dell Boomi • Azure Data Factory • Azure SQL • Azure Blob Storage • Azure Table Storage • JSON • XML • Incremental Data Sync
+☁️ Cloud & DevOps	Microsoft Azure • Azure Functions • Docker • Git • GitHub • GitHub Actions • CI/CD
+📦 Big Data	Apache Spark • Apache Kafka • Apache NiFi • Hadoop • Distributed Systems
+🤖 Machine Learning	PyTorch • Scikit-Learn • XGBoost • LightGBM • Feature Engineering • Model Optimization • Telemetry Analytics
 🏢 Professional Experience
-🧪 Research Intern
-IIIT Bangalore
-
-2026 — Present
-
-Highlights
-
-✅ Built production-grade ML pipelines
-
-✅ Feature engineering for large telemetry datasets
-
-✅ Java-based fuzzing framework
-
-✅ Automated API validation
-
-✅ ETL testing framework
-
-✅ Statistical evaluation workflows
-
-☁️ Data Engineer
-Oddr Technologies
-
-2025 — Present
-
-Highlights
-
-⚡ Azure ETL Pipelines
-
-⚡ Dell Boomi Integrations
-
-⚡ Enterprise Data Synchronization
-
-⚡ OAuth Workflows
-
-⚡ Event Driven Architecture
-
-⚡ Azure Functions
-
-⚡ SQL Optimization
-
-⚡ REST APIs
-
+Position	Organization	Duration	Highlights
+🧪 Research Intern	IIIT Bangalore	Feb 2026 – Present	• Built production-scale ML pipelines<br>• Feature engineered large telemetry datasets<br>• Developed Java-based fuzzing framework<br>• Automated API & ETL validation<br>• Designed statistical evaluation workflows
+☁️ Data Engineer – Integrations	Oddr Technologies Pvt. Ltd.	Sep 2025 – Present	• Designed Azure ETL pipelines<br>• Built Dell Boomi integrations<br>• Enterprise-scale data synchronization<br>• Event-driven Azure Functions<br>• SQL performance optimization<br>• REST API integrations
 🚀 Featured Projects
-Apache Jira Scraper + LLM Dataset Pipeline
-
-Large Scale Data Collection for AI
-
-Features
-50,000+ Jira Issues
-Fault Recovery
-Rate Limiting
-Dockerized
-JSONL Dataset
-Embedding Pipeline
-Semantic Search
-Jira
-
-↓
-
-REST API
-
-↓
-
-Data Cleaning
-
-↓
-
-JSONL
-
-↓
-
-Embeddings
-
-↓
-
-LLM Dataset
-
-Blind Assistive Navigation
-
-Real-time Computer Vision System
-
-Built Using
-
-YOLOv5
-
-OpenCV
-
-PyTorch
-
-NumPy
-
-Results
-
-⚡ <150ms latency
-
-⚡ +30% obstacle detection
-
-System Threat Forecaster
-
-Predictive Malware Analytics
-
-Tech
-
-XGBoost
-LightGBM
-Scikit-learn
-Feature Engineering
-
-Processed
-
-✔ 10,000+ telemetry features
-
-Improved performance
-
-✔ 76%
-
-🛠 Current Focus
+Project	Technologies	Highlights
+🚀 Apache Jira Scraper & LLM Training Pipeline	Python • REST APIs • Docker • JSONL • NLP • Streamlit	✔ Scraped 50,000+ Jira issues<br>✔ Fault-tolerant recovery<br>✔ Intelligent rate limiting<br>✔ Embedding generation<br>✔ Semantic Search<br>✔ Production-ready dataset pipeline
+👨‍🦯 Blind Assistive Navigation System	YOLOv5 • PyTorch • OpenCV • NumPy	✔ Real-time obstacle detection<br>✔ <150ms latency<br>✔ 30% accuracy improvement
+🛡️ System Threat Forecaster	XGBoost • LightGBM • Scikit-Learn • Pandas	✔ Processed 10,000+ telemetry features<br>✔ 76% model performance improvement<br>✔ End-to-end ML pipeline
+🔄 Current Engineering Loop
 while True:
-
     learn()
-
     build()
-
     optimize()
-
     deploy()
-
     repeat()
 
-🎯 What I Enjoy Building
-
-✔ Distributed Systems
-
-✔ AI Applications
-
-✔ Backend Services
-
-✔ Data Platforms
-
-✔ Cloud Native Applications
-
-✔ Automation
-
-✔ Developer Tools
-
-✔ ML Infrastructure
-
-📊 Engineering Interests
-Backend Engineering        ████████████████
-
-Machine Learning           ███████████████
-
-Cloud Computing            ██████████████
-
-Distributed Systems        ██████████████
-
-Data Engineering           ████████████████
-
-System Design              █████████████
-
-Computer Vision            ███████████
-
-Developer Experience       ██████████
-
-🏆 Achievements
-
-🥇 Top 2% Kaggle Competitor
-
-🥇 HackerRank Gold (SQL)
-
-🥇 Dell Boomi Professional Developer
-
-🥇 Microsoft Azure Certified
-
-🥇 IIT Madras Diploma (Programming)
-
-🥇 IIT Madras Diploma (Data Science)
-
-🏆 VTU Sports Champion
-
-🏆 CodeChef Club Technical Representative
-
-📚 Education
-CMR Institute of Technology
-
-B.E.
-
-Artificial Intelligence & Data Science
-
-CGPA: 8.50
-
-IIT Madras
-
-BS
-
-Data Science & Programming
-
-CGPA: 7.09
+🎯 Engineering Interests
+Area	Interest
+⚙️ Backend Engineering	████████████████ 100%
+🤖 Machine Learning	███████████████░ 95%
+☁️ Cloud Computing	██████████████░░ 90%
+🌐 Distributed Systems	██████████████░░ 90%
+📊 Data Engineering	████████████████ 100%
+🏗️ System Design	█████████████░░░ 85%
+👁️ Computer Vision	███████████░░░░░ 75%
+🛠️ Developer Experience	██████████░░░░░░ 70%
+❤️ What I Enjoy Building
+💡 Domain	Examples
+🤖 Artificial Intelligence	Machine Learning • LLM Applications • Computer Vision
+⚙️ Backend Engineering	APIs • Microservices • Authentication • Scalable Services
+📊 Data Engineering	ETL Pipelines • Streaming • Data Platforms
+☁️ Cloud Engineering	Azure • Serverless • Docker • CI/CD
+🌐 Distributed Systems	Event-Driven Systems • High Availability • Fault Tolerance
+🚀 Developer Tools	Automation • Productivity Tools • Internal Platforms
+📦 Infrastructure	ML Infrastructure • Cloud-Native Applications
+🏆 Achievements & Certifications
+Category	Achievement
+🥇 Kaggle	Top 2% Competitor
+🥇 HackerRank	Gold Badge (SQL)
+☁️ Microsoft	Azure Fundamentals (AZ-900)
+☁️ Microsoft	Azure Data Fundamentals (DP-900)
+🔗 Dell Boomi	Associate Integration Developer
+🔗 Dell Boomi	Professional Integration Developer
+🎓 IIT Madras	Diploma in Programming
+🎓 IIT Madras	Diploma in Data Science
+🏅 Sports	VTU Tug of War Champion
+👨‍🏫 Leadership	Technical Representative — CodeChef Club
+🎓 Education
+Degree	Institution	Duration	CGPA
+🎓 B.E. Artificial Intelligence & Data Science	CMR Institute of Technology	2022 – 2026	8.50 / 10
+🎓 B.S. Data Science & Programming	IIT Madras	2022 – Present	7.09 / 10
 
 🌍 Currently Exploring
-Large Language Models
-Distributed AI Systems
-High Performance Data Pipelines
-Kubernetes
-MLOps
-Event Streaming
-System Design
-Scalable Backend Engineering
+Large Language Models| Distributed AI Systems |High Performance Data Pipelines |Kubernetes |MLOps |Event Streaming |System Design |Scalable Backend Engineering
 📫 Let's Connect
 <div align="center">
 I enjoy collaborating on ambitious engineering problems.
