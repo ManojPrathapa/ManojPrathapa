@@ -92,6 +92,7 @@ philosophy: "Clean architecture + reliable systems + automation = engineering th
 Production-grade pipeline scraping **50,000+ Jira issues** with fault-tolerant recovery, rate limiting, and embedding-based semantic search over structured JSONL datasets.
 
 </td>
+
 <td width="33%" valign="top">
 
 ### 👨‍🦯 [Blind Assistive Navigation](https://github.com/ManojPrathapa)
@@ -100,6 +101,7 @@ Production-grade pipeline scraping **50,000+ Jira issues** with fault-tolerant r
 Real-time obstacle detection system running at **sub-150ms latency**, improving detection accuracy by **30%** through optimized CV pipelines.
 
 </td>
+
 <td width="33%" valign="top">
 
 ### 🛡️ [System Threat Forecaster](https://github.com/ManojPrathapa)
@@ -109,15 +111,17 @@ End-to-end ML pipeline processing **10,000+ telemetry features** for malware pre
 
 </td>
 </tr>
+
 <tr>
 <td width="33%" valign="top">
 
 ### 🎓 [Aviation Intelligence Platform](https://github.com/ManojPrathapa/aviation-intelligence-platform)
-`Java` `Shell` `PLpgSQL` `Dockerfile`
+`Java` `Shell` `PLpgSQL` `Docker`
 
 An Open Sky concept platform that allows you to keep track of everything aviation related.
 
 </td>
+
 <td width="33%" valign="top">
 
 ### 📢 [Influencer & Sponsor Platform V2](https://github.com/ManojPrathapa/Influencer-Engagement-and-Sponsorship-platform--V2)
@@ -126,6 +130,7 @@ An Open Sky concept platform that allows you to keep track of everything aviatio
 Full-stack platform connecting influencers and sponsors, with background jobs and caching layers for scale.
 
 </td>
+
 <td width="33%" valign="top">
 
 ### ⚽ [Football Data Pipeline](https://github.com/ManojPrathapa/Football_Data_Pipeline)
@@ -134,6 +139,9 @@ Full-stack platform connecting influencers and sponsors, with background jobs an
 End-to-end football data pipeline that ingests, transforms, and processes match data into analytics-ready datasets using automated ETL workflows.
 
 </td>
+</tr>
+
+<tr>
 <td width="33%" valign="top">
 
 ### 🛡️ [CyberSafe](https://github.com/ManojPrathapa/CyberSafe)
@@ -142,21 +150,22 @@ End-to-end football data pipeline that ingests, transforms, and processes match 
 Web application for cybersecurity awareness and threat detection, leveraging machine learning to identify malicious URLs and promote safe browsing practices.
 
 </td>
+
 <td width="33%" valign="top">
-  
+
 ### 🎓 [Student Management System](https://github.com/ManojPrathapa/Django-Based-Student-Management-System)
 `Django` `ERP`
 
 A precise ERP-style system managing HOD, course, and student records end to end.
 
 </td>
+
 <td width="33%" valign="top">
 
 ### 🌐 [Influencer–Sponsor Platform](https://github.com/ManojPrathapa/Influencer-and-Sponsor-Platform)
 `Flask` `SQLite`
 
 Web application connecting influencers and sponsors for campaign collaboration.
-
 
 </td>
 </tr>
@@ -178,11 +187,15 @@ Web application connecting influencers and sponsors for campaign collaboration.
 
 **Cloud & DevOps**
 <br/>
-<img src="https://skillicons.dev/icons?i=azure,docker,git,github,githubactions&theme=dark" />
+<img src="https://skillicons.dev/icons?i=azure,gcp,docker,git,github,githubactions&theme=dark" />
 
 **Data & Machine Learning**
 <br/>
 <img src="https://skillicons.dev/icons?i=pytorch,sklearn,hadoop,kafka&theme=dark" />
+
+**Big Data & Infrastructure**
+<br/>
+<img src="https://skillicons.dev/icons?i=apache&theme=dark" />
 
 </div>
 
