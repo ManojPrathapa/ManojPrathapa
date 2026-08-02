@@ -1,121 +1,277 @@
-🚀 Hi, I'm Manoj Prathapa
 <div align="center">
-Building Scalable AI Systems • Data Engineering • Distributed Systems
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Research+Intern+%40+IIIT+Bangalore;Data+Engineer+%40+Oddr+Technologies;AI+%7C+Distributed+Systems+%7C+Cloud+Engineering;Building+Production-Scale+Machine+Learning+Pipelines;Always+Learning.+Always+Building." /> <p align="center"> <a href="mailto:mankojp23@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/> </a> <a href="https://linkedin.com/in/manojprathapa"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/> </a> <a href="https://github.com/ManojPrathapa"> <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/> </a> </p>
-Engineering AI Systems. Scaling Data. Solving Hard Problems.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00F7FF&height=220&section=header&text=Manoj%20Prathapa&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Engineer%20%7C%20Systems%20Builder&descAlignY=58&descSize=18" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Research+Intern+%40+IIIT+Bangalore;Data+Engineer+%40+Oddr+Technologies;Building+Production-Scale+ML+Pipelines;Distributed+Systems+%7C+Cloud+Engineering;Always+Learning.+Always+Building." alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="mailto:mankojp23@gmail.com"><img src="https://img.shields.io/badge/Email-mankojp23%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/manojprathapa"><img src="https://img.shields.io/badge/LinkedIn-Manoj_Prathapa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/ManojPrathapa"><img src="https://img.shields.io/badge/GitHub-ManojPrathapa-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ManojPrathapa&label=Profile%20Views&color=00F7FF&style=flat-square" alt="profile views"/>
+
 </div>
-💡 About Me
 
-I am an AI Engineer, Data Engineer, and Systems Builder passionate about solving problems that live at the intersection of
+<br/>
 
-Machine Learning
-Distributed Systems
-Backend Engineering
-Cloud Computing
-Data Engineering
+<h3 align="center">✨ "Great software isn't just code that works — it's systems that continue working under pressure." ✨</h3>
 
-Currently,
+<br/>
 
-🏢 Research Intern — IIIT Bangalore
+## 💡 About Me
 
-⚡ Data Engineer (Integrations) — Oddr Technologies
+<img align="right" width="340" src="https://raw.githubusercontent.com/ManojPrathapa/ManojPrathapa/main/assets/coding.gif" onerror="this.style.display='none'"/>
 
-🎓 B.E. Artificial Intelligence & Data Science
+I'm an **AI Engineer**, **Data Engineer**, and **Systems Builder** who lives at the intersection of machine learning, distributed systems, and backend infrastructure. I care about one thing above all — **building software that survives production**.
 
-🎓 IIT Madras BS in Data Science & Programming
+```yaml
+name: Manoj Prathapa
+role: Research Intern @ IIIT Bangalore | Data Engineer @ Oddr Technologies
+education:
+  - B.E. Artificial Intelligence & Data Science, CMR Institute of Technology
+  - B.S. Data Science & Programming, IIT Madras
+focus:
+  - Scalable ML pipelines & telemetry systems
+  - Event-driven, fault-tolerant data infrastructure
+  - Cloud-native, distributed backend engineering
+currently_exploring:
+  - Large Language Models
+  - MLOps & Kubernetes
+  - High-performance event streaming
+philosophy: "Clean architecture + reliable systems + automation = engineering that lasts"
+```
 
-I enjoy designing systems that continue working when datasets become millions of rows, APIs become unreliable, and architectures become distributed.
+<br clear="right"/>
 
-My goal is simple:
+---
 
-Build software that survives production.
+## 🏢 Experience
 
-⚡ Engineering Philosophy
-Clean Architecture
-        +
-Reliable Systems
-        +
-Scalable Infrastructure
-        +
-Machine Learning
-        +
-Automation
+<table>
+<tr>
+<td width="50%" valign="top">
 
-= Engineering that creates impact
+### 🧪 Research Intern
+**IIIT Bangalore** · *Feb 2026 – Present*
 
-📈 GitHub Profile
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=ManojPrathapa&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ManojPrathapa&theme=tokyonight&hide_border=true"/> </div>
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManojPrathapa&theme=tokyo-night"/> </div>
-🧠 Technical Expertise
-Category	Technologies
-💻 Programming Languages	Python • Java • SQL • C • JavaScript • Bash
-⚙️ Backend Development	FastAPI • Flask • REST APIs • OAuth 2.0 • Microsoft Graph API • Redis • PostgreSQL • MongoDB
-📊 Data Engineering	ETL Pipelines • Dell Boomi • Azure Data Factory • Azure SQL • Azure Blob Storage • Azure Table Storage • JSON • XML • Incremental Data Sync
-☁️ Cloud & DevOps	Microsoft Azure • Azure Functions • Docker • Git • GitHub • GitHub Actions • CI/CD
-📦 Big Data	Apache Spark • Apache Kafka • Apache NiFi • Hadoop • Distributed Systems
-🤖 Machine Learning	PyTorch • Scikit-Learn • XGBoost • LightGBM • Feature Engineering • Model Optimization • Telemetry Analytics
-🏢 Professional Experience
-Position	Organization	Duration	Highlights
-🧪 Research Intern	IIIT Bangalore	Feb 2026 – Present	• Built production-scale ML pipelines<br>• Feature engineered large telemetry datasets<br>• Developed Java-based fuzzing framework<br>• Automated API & ETL validation<br>• Designed statistical evaluation workflows
-☁️ Data Engineer – Integrations	Oddr Technologies Pvt. Ltd.	Sep 2025 – Present	• Designed Azure ETL pipelines<br>• Built Dell Boomi integrations<br>• Enterprise-scale data synchronization<br>• Event-driven Azure Functions<br>• SQL performance optimization<br>• REST API integrations
-🚀 Featured Projects
-Project	Technologies	Highlights
-🚀 Apache Jira Scraper & LLM Training Pipeline	Python • REST APIs • Docker • JSONL • NLP • Streamlit	✔ Scraped 50,000+ Jira issues<br>✔ Fault-tolerant recovery<br>✔ Intelligent rate limiting<br>✔ Embedding generation<br>✔ Semantic Search<br>✔ Production-ready dataset pipeline
-👨‍🦯 Blind Assistive Navigation System	YOLOv5 • PyTorch • OpenCV • NumPy	✔ Real-time obstacle detection<br>✔ <150ms latency<br>✔ 30% accuracy improvement
-🛡️ System Threat Forecaster	XGBoost • LightGBM • Scikit-Learn • Pandas	✔ Processed 10,000+ telemetry features<br>✔ 76% model performance improvement<br>✔ End-to-end ML pipeline
-🔄 Current Engineering Loop
+- Built **production-scale ML pipelines** for large telemetry datasets
+- Developed a **Java-based fuzzing framework** integrated with ETL/API pipelines
+- Designed **reproducible evaluation workflows** with statistical validation
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Data Engineer — Integrations
+**Oddr Technologies Pvt. Ltd.** · *Sep 2025 – Present*
+
+- Architected **event-driven Azure ETL pipelines** with Dell Boomi
+- Enabled **fault-tolerant, incremental data sync** via Azure Functions & OAuth 2.0
+- Optimized SQL & batching, cutting manual intervention in production
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🕷️ [Jira Scraper & LLM Pipeline](https://github.com/ManojPrathapa)
+`Python` `REST APIs` `NLP` `Docker`
+
+Production-grade pipeline scraping **50,000+ Jira issues** with fault-tolerant recovery, rate limiting, and embedding-based semantic search over structured JSONL datasets.
+
+</td>
+<td width="33%" valign="top">
+
+### 👨‍🦯 [Blind Assistive Navigation](https://github.com/ManojPrathapa)
+`YOLOv5` `PyTorch` `OpenCV`
+
+Real-time obstacle detection system running at **sub-150ms latency**, improving detection accuracy by **30%** through optimized CV pipelines.
+
+</td>
+<td width="33%" valign="top">
+
+### 🛡️ [System Threat Forecaster](https://github.com/ManojPrathapa)
+`XGBoost` `LightGBM` `Pandas`
+
+End-to-end ML pipeline processing **10,000+ telemetry features** for malware prediction, boosting model performance by **76%**.
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 📢 [Influencer & Sponsor Platform V2](https://github.com/ManojPrathapa/Influencer-Engagement-and-Sponsorship-platform--V2)
+`Vue` `Backend Jobs` `Caching`
+
+Full-stack platform connecting influencers and sponsors, with background jobs and caching layers for scale.
+
+</td>
+<td width="33%" valign="top">
+
+### 🎓 [Student Management System](https://github.com/ManojPrathapa/Django-Based-Student-Management-System)
+`Django` `ERP`
+
+A precise ERP-style system managing HOD, course, and student records end to end.
+
+</td>
+<td width="33%" valign="top">
+
+### 🌐 [Influencer–Sponsor Platform](https://github.com/ManojPrathapa/Influencer-and-Sponsor-Platform)
+`Flask` `SQLite`
+
+Web application connecting influencers and sponsors for campaign collaboration.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Tech Stack
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,bash&theme=dark" />
+
+**Backend & Systems**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,redis,postgres,mongodb&theme=dark" />
+
+**Cloud & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=azure,docker,git,github,githubactions&theme=dark" />
+
+**Data & Machine Learning**
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,hadoop,kafka&theme=dark" />
+
+</div>
+
+<details>
+<summary><b>📋 Full Skill Breakdown</b></summary>
+<br/>
+
+| Category | Technologies |
+|---|---|
+| 💻 **Languages** | Python • Java • SQL • C • JavaScript • Bash |
+| ⚙️ **Backend** | FastAPI • Flask • REST APIs • OAuth 2.0 • Microsoft Graph API • Redis • PostgreSQL • MongoDB |
+| 📊 **Data Engineering** | ETL Pipelines • Dell Boomi • Azure Data Factory • Azure SQL • Blob/Table Storage • JSON/XML • Incremental Sync |
+| ☁️ **Cloud & DevOps** | Azure • Azure Functions • Docker • Git • GitHub Actions • CI/CD |
+| 📦 **Big Data** | Apache Spark • Apache Kafka • Apache NiFi • Hadoop • Distributed Systems |
+| 🤖 **Machine Learning** | PyTorch • Scikit-learn • XGBoost • LightGBM • Feature Engineering • Telemetry Analytics |
+| 🛠️ **Tools** | Tableau • Power BI • Streamlit • Postman • Jira |
+
+</details>
+
+---
+
+## 🎯 Engineering Focus
+
+<div align="center">
+
+| Area | Proficiency |
+|---|---|
+| ⚙️ Backend Engineering | ![100%](https://progress-bar.xyz/100?width=200&color=00F7FF) |
+| 📊 Data Engineering | ![100%](https://progress-bar.xyz/100?width=200&color=00F7FF) |
+| 🤖 Machine Learning | ![95%](https://progress-bar.xyz/95?width=200&color=00c2ff) |
+| ☁️ Cloud Computing | ![90%](https://progress-bar.xyz/90?width=200&color=0099ff) |
+| 🌐 Distributed Systems | ![90%](https://progress-bar.xyz/90?width=200&color=0099ff) |
+| 🏗️ System Design | ![85%](https://progress-bar.xyz/85?width=200&color=0070ff) |
+| 👁️ Computer Vision | ![75%](https://progress-bar.xyz/75?width=200&color=0055ff) |
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ManojPrathapa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ManojPrathapa&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManojPrathapa&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff" width="97%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojPrathapa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" width="45%"/>
+
+</div>
+
+---
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+| Category | Achievement |
+|---|---|
+| 🥇 Kaggle | Top 2% Competitor (9,000+ participants) |
+| 🥇 HackerRank | Gold Badge — SQL |
+| ☁️ Microsoft | Azure Fundamentals (AZ-900) |
+| ☁️ Microsoft | Azure Data Fundamentals (DP-900) |
+| 🔗 Dell Boomi | Associate Integration Developer |
+| 🔗 Dell Boomi | Professional Integration Developer |
+| 🎓 IIT Madras | Diploma in Programming & Data Science |
+| 🏅 Sports | VTU Tug of War Champion (2024) |
+| 👨‍🏫 Leadership | Technical Representative — CodeChef Club |
+
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Duration | CGPA |
+|---|---|---|---|
+| 🎓 B.E. Artificial Intelligence & Data Science | CMR Institute of Technology | 2022 – 2026 | 8.50 / 10 |
+| 🎓 B.S. Data Science & Programming | IIT Madras | 2022 – Present | 7.09 / 10 |
+
+</div>
+
+---
+
+## 🔄 Current Engineering Loop
+
+```python
 while True:
     learn()
     build()
     optimize()
     deploy()
     repeat()
+```
 
-🎯 Engineering Interests
-Area	Interest
-⚙️ Backend Engineering	████████████████ 100%
-🤖 Machine Learning	███████████████░ 95%
-☁️ Cloud Computing	██████████████░░ 90%
-🌐 Distributed Systems	██████████████░░ 90%
-📊 Data Engineering	████████████████ 100%
-🏗️ System Design	█████████████░░░ 85%
-👁️ Computer Vision	███████████░░░░░ 75%
-🛠️ Developer Experience	██████████░░░░░░ 70%
-❤️ What I Enjoy Building
-💡 Domain	Examples
-🤖 Artificial Intelligence	Machine Learning • LLM Applications • Computer Vision
-⚙️ Backend Engineering	APIs • Microservices • Authentication • Scalable Services
-📊 Data Engineering	ETL Pipelines • Streaming • Data Platforms
-☁️ Cloud Engineering	Azure • Serverless • Docker • CI/CD
-🌐 Distributed Systems	Event-Driven Systems • High Availability • Fault Tolerance
-🚀 Developer Tools	Automation • Productivity Tools • Internal Platforms
-📦 Infrastructure	ML Infrastructure • Cloud-Native Applications
-🏆 Achievements & Certifications
-Category	Achievement
-🥇 Kaggle	Top 2% Competitor
-🥇 HackerRank	Gold Badge (SQL)
-☁️ Microsoft	Azure Fundamentals (AZ-900)
-☁️ Microsoft	Azure Data Fundamentals (DP-900)
-🔗 Dell Boomi	Associate Integration Developer
-🔗 Dell Boomi	Professional Integration Developer
-🎓 IIT Madras	Diploma in Programming
-🎓 IIT Madras	Diploma in Data Science
-🏅 Sports	VTU Tug of War Champion
-👨‍🏫 Leadership	Technical Representative — CodeChef Club
-🎓 Education
-Degree	Institution	Duration	CGPA
-🎓 B.E. Artificial Intelligence & Data Science	CMR Institute of Technology	2022 – 2026	8.50 / 10
-🎓 B.S. Data Science & Programming	IIT Madras	2022 – Present	7.09 / 10
+---
 
-🌍 Currently Exploring
-Large Language Models| Distributed AI Systems |High Performance Data Pipelines |Kubernetes |MLOps |Event Streaming |System Design |Scalable Backend Engineering
-📫 Let's Connect
+## 📫 Let's Connect
+
 <div align="center">
-I enjoy collaborating on ambitious engineering problems.
-<a href="mailto:mankojp23@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/> </a> <a href="https://linkedin.com/in/manojprathapa"> <img src="https://img.shields.io/badge/LinkedIn-Manoj_Prathapa-blue?style=for-the-badge&logo=linkedin"/> </a> <a href="https://github.com/ManojPrathapa"> <img src="https://img.shields.io/badge/GitHub-ManojPrathapa-black?style=for-the-badge&logo=github"/> </a>
 
-"Great software isn't just code that works—it's systems that continue working under pressure."
+I enjoy collaborating on ambitious engineering problems — reach out anytime.
 
-⭐ If any of my projects interest you, feel free to connect.
+<a href="mailto:mankojp23@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/manojprathapa"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/ManojPrathapa"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+⭐ **If any of my projects interest you, feel free to connect.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0F2027&height=100&section=footer" width="100%"/>
 
 </div>
