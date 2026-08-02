@@ -58,7 +58,7 @@ philosophy: "Clean architecture + reliable systems + automation = engineering th
 <td width="50%" valign="top">
 
 ### 🧪 Research Intern
-**IIIT Bangalore** · *Feb 2026 – Present*
+**IIIT Bangalore** · *Feb 2026 – Jul 2026*
 
 - Built **production-scale ML pipelines** for large telemetry datasets
 - Developed a **Java-based fuzzing framework** integrated with ETL/API pipelines
@@ -112,6 +112,14 @@ End-to-end ML pipeline processing **10,000+ telemetry features** for malware pre
 <tr>
 <td width="33%" valign="top">
 
+### 🎓 [Aviation Intelligence Platform](https://github.com/ManojPrathapa/aviation-intelligence-platform)
+`Java` `Shell` `PLpgSQL` `Dockerfile`
+
+An Open Sky concept platform that allows you to keep track of everything aviation related.
+
+</td>
+<td width="33%" valign="top">
+
 ### 📢 [Influencer & Sponsor Platform V2](https://github.com/ManojPrathapa/Influencer-Engagement-and-Sponsorship-platform--V2)
 `Vue` `Backend Jobs` `Caching`
 
@@ -120,6 +128,22 @@ Full-stack platform connecting influencers and sponsors, with background jobs an
 </td>
 <td width="33%" valign="top">
 
+### ⚽ [Football Data Pipeline](https://github.com/ManojPrathapa/Football_Data_Pipeline)
+`Python` `ETL` `Data Engineering`
+
+End-to-end football data pipeline that ingests, transforms, and processes match data into analytics-ready datasets using automated ETL workflows.
+
+</td>
+<td width="33%" valign="top">
+
+### 🛡️ [CyberSafe](https://github.com/ManojPrathapa/CyberSafe)
+`Flask` `Cybersecurity` `Machine Learning`
+
+Web application for cybersecurity awareness and threat detection, leveraging machine learning to identify malicious URLs and promote safe browsing practices.
+
+</td>
+<td width="33%" valign="top">
+  
 ### 🎓 [Student Management System](https://github.com/ManojPrathapa/Django-Based-Student-Management-System)
 `Django` `ERP`
 
@@ -132,6 +156,7 @@ A precise ERP-style system managing HOD, course, and student records end to end.
 `Flask` `SQLite`
 
 Web application connecting influencers and sponsors for campaign collaboration.
+
 
 </td>
 </tr>
